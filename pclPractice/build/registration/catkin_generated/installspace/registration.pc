@@ -1,0 +1,8 @@
+prefix=/home/chenshiyang/pclPractice/install
+
+Name: registration
+Description: Description of registration
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+    <node name = "lidarOdom" pkg="lidarOdom" type="lidarOdom" output="screen" args="2"></node>
+    <node name = "rviz" pkg = "rviz" type="rviz" output="log" args="-d $(find lidarOdom)/rviz/rviz.rviz"></node>
+</launch>

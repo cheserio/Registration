@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+    <node name="registration" pkg="registration" type="registration" output="screen" args="3"></node>
+</launch>

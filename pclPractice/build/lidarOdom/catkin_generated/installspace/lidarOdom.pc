@@ -1,0 +1,8 @@
+prefix=/home/chenshiyang/pclPractice/install
+
+Name: lidarOdom
+Description: Description of lidarOdom
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

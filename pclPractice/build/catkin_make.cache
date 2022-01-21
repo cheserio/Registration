@@ -1,0 +1,2 @@
+lidarOdom:registration
+-DCATKIN_DEVEL_PREFIX=/home/chenshiyang/pclPractice/devel -DCMAKE_INSTALL_PREFIX=/home/chenshiyang/pclPractice/install -G Unix Makefiles
